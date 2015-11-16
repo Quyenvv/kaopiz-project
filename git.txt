@@ -1,0 +1,38 @@
+
+Setting git for win
+
+---------Thiet lap ten & email-------
+
+$ git config --global user.name "quyenvv"
+$ git config --global user.email "quyenvv@kaopiz.com"
+
+--------------Kiem tra lai--------------
+
+$ cat ~/.gitconfig
+
+-----------create folder repository -----------
+git init tên_folder
+$ git init git_example
+
+---------------------------
+
+$ git add readme.txt
+$ git status
+
+
+
+-----Trowj giup ----
+$ git help ...
+vd: $ git help config
+
+
+
+
+
+
+
+
+
+
+
+

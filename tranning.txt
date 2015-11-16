@@ -1,0 +1,6 @@
++Cai dat slack (slack.com)
++dang ky tai khoan slack theo mau tenhotendem (vidu vu ngoc quan -> quanvn) email quanvn@kaopiz.com -anh Huan den se dang ky
++Cai dat moi truog git hub (su dung source tree)
++cai dat moi truong php apache xamp(php 5.3,5.4)
++dang ky tai khoan trello (trello.com) 
++Tim hieu cach su dung git
